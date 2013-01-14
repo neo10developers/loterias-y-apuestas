@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Loterías y apuestas</string>
+    <string name="title_juego_detail">Detalle del Juego</string>
+    <string name="title_juego_list">Loterías y apuestas</string>
+    <string name="desarrollado_por">Desarrollado por</string>
+    <string name="volver">Volver</string>
+    <string name="fecha_del_sorteo_">"Fecha del sorteo: "</string>
+    <string name="_fecha_sorteo_">-Fecha sorteo-</string>
+    <string name="label_1">Label 1</string>
+    <string name="txt1">txt1</string>
+    <string name="label_2">Label 2</string>
+    <string name="txt2">txt2</string>
+    <string name="label_3">Label 3</string>
+    <string name="txt3">txt3</string>
+    <string name="label_4">Label 4</string>
+    <string name="txt4">txt4</string>
+    <string name="txt5">txt5</string>
+    <string name="txt6">txt6</string>
+    <string name="_nombre_juego_">-Nombre juego-</string>
+
+</resources>

@@ -1,0 +1,3 @@
+<resources>
+    <item type="layout" name="activity_juego_list">@layout/activity_juego_twopane</item>
+</resources>
